@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PermissionsApplication</string>
+    <string name="message">Enter your message</string>
+    <string name="button">Send</string>
+</resources>
